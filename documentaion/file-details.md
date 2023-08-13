@@ -4,10 +4,13 @@
 
 -- 1. Final Notebook
       This notebook contains the main properties of this project.
+      
 -- 2. Experiment Notebook 1
       This notebook contains the LSTM model
+      
 -- 3. Experiment Notebook 2
       This notebook contains the other ML models
+      
       
 ## Script
 
