@@ -44,4 +44,4 @@
     It contains the 1. Model Selection.md
                     2. Text Preprocessing.md and
                     3. file-details.md
-    files for the complete documentation of the project *Resume Categorization*
+    files for the complete documentation of the project Resume Categorization
